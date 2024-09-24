@@ -1,0 +1,17 @@
+D:\HW1（3）\HW1（3）\bin\Debug\net8.0-windows\HW1（3）.exe
+D:\HW1（3）\HW1（3）\bin\Debug\net8.0-windows\HW1（3）.deps.json
+D:\HW1（3）\HW1（3）\bin\Debug\net8.0-windows\HW1（3）.runtimeconfig.json
+D:\HW1（3）\HW1（3）\bin\Debug\net8.0-windows\HW1（3）.dll
+D:\HW1（3）\HW1（3）\bin\Debug\net8.0-windows\HW1（3）.pdb
+D:\HW1（3）\HW1（3）\obj\Debug\net8.0-windows\HW1_3_.Form1.resources
+D:\HW1（3）\HW1（3）\obj\Debug\net8.0-windows\HW1（3）.csproj.GenerateResource.cache
+D:\HW1（3）\HW1（3）\obj\Debug\net8.0-windows\HW1（3）.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW1（3）\HW1（3）\obj\Debug\net8.0-windows\HW1（3）.AssemblyInfoInputs.cache
+D:\HW1（3）\HW1（3）\obj\Debug\net8.0-windows\HW1（3）.AssemblyInfo.cs
+D:\HW1（3）\HW1（3）\obj\Debug\net8.0-windows\HW1（3）.csproj.CoreCompileInputs.cache
+D:\HW1（3）\HW1（3）\obj\Debug\net8.0-windows\HW1（3）.dll
+D:\HW1（3）\HW1（3）\obj\Debug\net8.0-windows\refint\HW1（3）.dll
+D:\HW1（3）\HW1（3）\obj\Debug\net8.0-windows\HW1（3）.pdb
+D:\HW1（3）\HW1（3）\obj\Debug\net8.0-windows\HW1（3）.genruntimeconfig.cache
+D:\HW1（3）\HW1（3）\obj\Debug\net8.0-windows\ref\HW1（3）.dll
+D:\HW1（3）\HW1（3）\obj\Debug\net8.0-windows\HW1_3_.Form2.resources
