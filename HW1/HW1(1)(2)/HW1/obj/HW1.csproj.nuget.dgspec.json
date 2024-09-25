@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HW1(1)(2)\\HW1\\HW1.csproj": {}
+    "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\HW1\\HW1(1)(2)\\HW1\\HW1.csproj": {}
   },
   "projects": {
-    "D:\\HW1(1)(2)\\HW1\\HW1.csproj": {
+    "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\HW1\\HW1(1)(2)\\HW1\\HW1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HW1(1)(2)\\HW1\\HW1.csproj",
+        "projectUniqueName": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\HW1\\HW1(1)(2)\\HW1\\HW1.csproj",
         "projectName": "HW1",
-        "projectPath": "D:\\HW1(1)(2)\\HW1\\HW1.csproj",
+        "projectPath": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\HW1\\HW1(1)(2)\\HW1\\HW1.csproj",
         "packagesPath": "C:\\Users\\lwq_0\\.nuget\\packages\\",
-        "outputPath": "D:\\HW1(1)(2)\\HW1\\obj\\",
+        "outputPath": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\HW1\\HW1(1)(2)\\HW1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lwq_0\\AppData\\Roaming\\NuGet\\NuGet.Config",
