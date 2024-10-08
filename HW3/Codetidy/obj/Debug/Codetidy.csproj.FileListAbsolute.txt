@@ -1,0 +1,10 @@
+C:\Users\lwq_0\Desktop\.netHomeWork\HW3\Codetidy\bin\Debug\Codetidy.exe.config
+C:\Users\lwq_0\Desktop\.netHomeWork\HW3\Codetidy\bin\Debug\Codetidy.exe
+C:\Users\lwq_0\Desktop\.netHomeWork\HW3\Codetidy\bin\Debug\Codetidy.pdb
+C:\Users\lwq_0\Desktop\.netHomeWork\HW3\Codetidy\obj\Debug\Codetidy.csproj.AssemblyReference.cache
+C:\Users\lwq_0\Desktop\.netHomeWork\HW3\Codetidy\obj\Debug\Codetidy.Form1.resources
+C:\Users\lwq_0\Desktop\.netHomeWork\HW3\Codetidy\obj\Debug\Codetidy.Properties.Resources.resources
+C:\Users\lwq_0\Desktop\.netHomeWork\HW3\Codetidy\obj\Debug\Codetidy.csproj.GenerateResource.cache
+C:\Users\lwq_0\Desktop\.netHomeWork\HW3\Codetidy\obj\Debug\Codetidy.csproj.CoreCompileInputs.cache
+C:\Users\lwq_0\Desktop\.netHomeWork\HW3\Codetidy\obj\Debug\Codetidy.exe
+C:\Users\lwq_0\Desktop\.netHomeWork\HW3\Codetidy\obj\Debug\Codetidy.pdb
