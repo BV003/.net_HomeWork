@@ -87,9 +87,12 @@ namespace Codetidy
         }
         private void ProcessFile(string filePath)
         {
-            string fileContent = File.ReadAllText(filePath);
-            int originalLineCount = CountLines(fileContent);
-            int originalWordCount = CountWords(fileContent);
+            try
+            {
+                string fileContent = File.ReadAllText(filePath);
+                int originalLineCount = CountLines(fileContent);
+                int originalWordCount = CountWords(fileContent);
+            
 
             // 显示原始统计数据
             textBox1.Text = originalLineCount.ToString();
@@ -108,6 +111,11 @@ namespace Codetidy
             // 统计单词出现次数
             Dictionary<string, int> wordCounts = CountWordFrequencies(formattedContent);
             UpdateWordList(wordCounts);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("An error occurred: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
         private void button1_Click(object sender, EventArgs e)
         {
