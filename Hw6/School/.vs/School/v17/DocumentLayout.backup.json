@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|c:\\users\\lwq_0\\desktop\\.nethomework\\hw6\\school\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\classform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|solutionrelative:classform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\schoolmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|solutionrelative:schoolmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\schoolmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|solutionrelative:schoolmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\classform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|solutionrelative:classform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\logform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|solutionrelative:logform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\logform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|solutionrelative:logform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DA9B85-BC89-452A-8B09-A397CE4957A6}|School.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAjwEAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:12:44.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\Student.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Student.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:12:43.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchoolManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\SchoolManagementForm.cs",
+              "RelativeDocumentMoniker": "SchoolManagementForm.cs",
+              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\SchoolManagementForm.cs",
+              "RelativeToolTip": "SchoolManagementForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAjwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:12:12.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolManagementForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\SchoolManagementForm.cs",
+              "RelativeDocumentMoniker": "SchoolManagementForm.cs",
+              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\SchoolManagementForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SchoolManagementForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:12:10.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassForm.cs",
+              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\ClassForm.cs",
+              "RelativeDocumentMoniker": "ClassForm.cs",
+              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\ClassForm.cs",
+              "RelativeToolTip": "ClassForm.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAADgv0cAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:11:03.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogForm.cs",
+              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\LogForm.cs",
+              "RelativeDocumentMoniker": "LogForm.cs",
+              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\LogForm.cs",
+              "RelativeToolTip": "LogForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAD4vxsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:06:46.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\LogForm.cs",
+              "RelativeDocumentMoniker": "LogForm.cs",
+              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\LogForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "LogForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:06:46.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAADABAAAAAAAAAAAhwEkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:00:13.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\ClassForm.cs",
+              "RelativeDocumentMoniker": "ClassForm.cs",
+              "ToolTip": "C:\\Users\\lwq_0\\Desktop\\.netHomeWork\\Hw6\\School\\ClassForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ClassForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:04:37.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
